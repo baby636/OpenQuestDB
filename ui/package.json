@@ -34,7 +34,7 @@
     "gulp-useref": "3.0.0",
     "main-bower-files": "2.5.0",
     "wiredep": "2.2.2",
-    "jsdom": "9.11.0"
+    "jsdom": "16.5.0"
   },
   "eslintConfig": {
     "env": {
